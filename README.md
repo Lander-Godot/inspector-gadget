@@ -22,6 +22,8 @@ Inspector gadget is a set of GDScript UI controls designed to read and write obj
 
 `example.tscn` in the `scenes` folder contains a visual example of the Inspector Gadget UI, and includes visualization and editing for each of Godot's built-in basic types.
 
+![screenshot](captures/screenshot.png)
+
 ## Inspector Gadget Elsewhere
 
 [Discord](https://discord.gg/c72WBuG)
